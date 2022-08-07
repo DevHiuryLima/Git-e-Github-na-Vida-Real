@@ -2259,7 +2259,7 @@ input, select, textarea {
 
 /* One */
 
-	#one {
+	#quem-sou {
 		background: url("images/overlay.png"), url("../../images/castle.jpeg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
@@ -2268,7 +2268,7 @@ input, select, textarea {
 
 /* Two */
 
-	#two {
+	#o-que-faco {
 		background: url("images/overlay.png"), url("../../images/snow.jpeg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
